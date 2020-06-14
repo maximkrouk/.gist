@@ -54,6 +54,7 @@
 - [Result+Resolver](https://gist.github.com/maximkrouk/3eddf17a66db1aa97b828a49a530f065)
 - [RoutingView](https://gist.github.com/maximkrouk/6c5c759bea67080634b43737c810ec14) (_Brute force NavigationView implementation in SwiftUI_)
 - [CodingKeys](https://gist.github.com/maximkrouk/9b91dfc21ef61bf42f52b2813320b984) (_ExpressibleByStringLiteral Coding Keys_)
+- [NestedCodable](https://gist.github.com/maximkrouk/1f42b914879aa2d24af471dfc52c78cb) (_Decoding of nested codables with property wrappers_) [[See more](https://ilya.puchka.me/decoding-nested-values-with-property-wrappers)]
 - [FunctionalMigrations](https://gist.github.com/maximkrouk/9ed63cc8670f57feb1ec250c14832671) (_Functional Fluent migrations_)
 
 ### <a name="starred"> Starred
@@ -84,4 +85,5 @@
 
 # 
 
-<p align='right'><i>v1.1.0</i></p>
+<p align='right'><i>v1.2.1</i></p>
+
