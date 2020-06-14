@@ -52,6 +52,9 @@
 - [Swipable SwiftUI Cards](https://gist.github.com/maximkrouk/e4bae2b4d7422cd35ae591ad8b59aed1) (_3D animated tinder-inspired swipable cards, written in SwiftUI_)
 - [CAKeyPathDrivenAnimation](https://gist.github.com/maximkrouk/322e7e8aa50ebd5dd23df9889502732e) (_Type-safe KeyPath driven animations_)
 - [Result+Resolver](https://gist.github.com/maximkrouk/3eddf17a66db1aa97b828a49a530f065)
+- [RoutingView](https://gist.github.com/maximkrouk/6c5c759bea67080634b43737c810ec14) (_Brute force NavigationView implementation in SwiftUI_)
+- [CodingKeys](https://gist.github.com/maximkrouk/9b91dfc21ef61bf42f52b2813320b984) (_ExpressibleByStringLiteral Coding Keys_)
+- [FunctionalMigrations](https://gist.github.com/maximkrouk/9ed63cc8670f57feb1ec250c14832671) (_Functional Fluent migrations_)
 
 ### <a name="starred"> Starred
 
@@ -79,7 +82,6 @@
 - [UICocoa](https://github.com/maximkrouk/UICocoa) (_Just a bunch of typealeases for the AppKit in Cocoa_)
 - [GraphQLKit](https://github.com/maximkrouk/GraphQLKit) (_Easy setup of a GraphQL server with Vapor. It uses the GraphQL implementation of [Graphiti](https://github.com/maximkrouk/Graphiti)_)
 
-#
+# 
 
-<p align='right'><i>v1.0.0</i></p>
-
+<p align='right'><i>v1.1.0</i></p>
