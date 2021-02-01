@@ -1,6 +1,9 @@
 # Welcome to my gists
 
+[**DeclarativeConfiguration**](https://github.com/MakeupStudio/swift-declarative-configuration) (_The best framework for UI configuration and more. If you gonna check only one link, that is defenetely the one you must check._)
+
 ### Table of contents
+- [Best](#best)
 - [@Boxes](#boxes)
 - [Code analysis](#code_analysis)
 - [Server Side Swift](#s3)
@@ -11,6 +14,13 @@
 - [Other links](#other_links)
 
 ---
+### <a name="best"> Best
+- [_ViewModifier](https://gist.github.com/maximkrouk/1eac0ad7b8e0c5e23b2f9f6285403631) (_Functional view modifier_)
+- [Foreground](https://gist.github.com/maximkrouk/eafe497279067df303d30372c5ba0f29) (_Custom SwiftUI foreground_)
+- [@Authenticated](https://gist.github.com/maximkrouk/9e5839b9c3eba6dad076d8f235fa2c04) (_Property wrapper for system FaceID/TouchID/Password secured actions_)
+- [@Weak](https://gist.github.com/maximkrouk/7e44b2ce67c731b57c6469405a975d43) (_A mechanism for safe capturing & weakifying objects_)
+- [Haptic](https://gist.github.com/maximkrouk/942125396a857e49203ddb933d557c31) (_Custom proxy for UIFeedbackGenerator subclasses_)
+- [Button](https://gist.github.com/maximkrouk/35c0ec0baf4d4e797786f60c49a2554e) (_Easily customisable declarative UIKit button_)
 
 ### <a name="boxes"> @Boxes
 
@@ -85,5 +95,5 @@
 
 # 
 
-<p align='right'><i>v1.2.1</i></p>
+<p align='right'><i>v1.3.0</i></p>
 
